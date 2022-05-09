@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+![OhGreat's GitHub stats](https://github-readme-stats.vercel.app/api&username=ohgreat&count_private=true&theme=default&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohgreat&layout=compact)](https://github.com/ohgreat/github-readme-stats)
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/ohgreat/count.svg" />
+</p>
