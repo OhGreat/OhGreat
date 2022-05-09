@@ -25,3 +25,5 @@ Here are some ideas to get you started:
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/ohgreat/count.svg" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=ohgreat)
