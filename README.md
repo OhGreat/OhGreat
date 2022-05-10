@@ -1,9 +1,9 @@
 #### Hey, Dimitris here 👋
 I'm currently enrolled in the Computer Science Master's course at Leiden University.
-When I am not doing compulsory university work, I enjoy experimenting and reading publications 
-about deep & reiforcement learning, computer vision as well as evolutionary algorithms.
+When I am not doing compulsory university work, I enjoy experimenting with projects and reading publications 
+regarding the latest breakthroughs in AI and Bioinformatics.
 My main ambition is to work in reaserch and never stop learning.
-Make sure to visit my repositories if you want to learn more about my current work and progress.
+Make sure to visit my repositories if you want to learn about my recent work and progress.
 
 #### Tech stack:
 ![Python](https://img.shields.io/badge/-Python-282c34?style=for-the-badge&logo=Python)
