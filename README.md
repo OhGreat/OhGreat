@@ -29,5 +29,5 @@ Make sure to visit my repositories if you want to learn about my recent work and
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logoColor=white&style=for-the-badge&logo=gmail)](mailto:dimitris.ieronymakis@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logoColor=white&style=for-the-badge&logo=linkedin&target=https://www.linkedin.com/in/dimitrios-ieronymakis)](https://www.linkedin.com/in/dimitrios-ieronymakis?target=_blank)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logoColor=white&style=for-the-badge&logo=telegram)](https://t.me/DimitriosIeronymakis)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logoColor=white&style=for-the-badge&logo=twitter)](https://twitter.com/Dim_Ier)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logoColor=white&style=for-the-badge&logo=twitter)](https://twitter.com/ier_dim)
 
