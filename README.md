@@ -1,6 +1,6 @@
 ### Hi there, Dimitris here 👋
 
-I'm a student currently enrolled in the Computer Science Master's course at Leiden University.<br/>
+I'm currently enrolled in the Computer Science Master's course at Leiden University.<br/>
 When I am not doing compulsory university work, I enjoy experimenting and reading publications 
 about deep & reiforcement learning, computer vision as well as evolutionary algorithms.<br/>
 Make sure to take a look at my repositories to get an idea of my current work and progress.
