@@ -1,6 +1,10 @@
 ### Hi there, Dimitris here 👋
 
-I'm a student currently enrolled in the Computer Science Master's course at Leiden University. My main interests and reaserch topics include deep & reiforcement learning, computer vision and evolutionary algorithms. 
+I'm a student currently enrolled in the Computer Science Master's course at Leiden University. 
+When I am not doing compulsory university work, 
+I enjoy experimenting and reading publications 
+about deep & reiforcement learning, computer vision as well as evolutionary algorithms.
+
 
 
 ### Tech stack:
