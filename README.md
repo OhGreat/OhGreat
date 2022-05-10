@@ -26,17 +26,18 @@ I'm a student currently enrolled in the Computer Science Master's course at Leid
 ### Connect with me:
 
 <div>
-<span style="vertical-align: middle;">
-<img src="icons/email.png" width=24 height=24/> 
-</span> dimitris.ieronymakis@gmail.com <br/>
+<img align="center" src="icons/email.png" width=24 height=24/> 
+dimitris.ieronymakis@gmail.com <br/>
 </div>
 
 <div>
-<span style="vertical-align: middle;">
-<img src="icons/linkedin.png" width=24 height=24/></span> dimitrios-ieronymakis <br/>
+  <img align="center" src="icons/linkedin.png" width=24 height=24/> 
+  <a href ="https://www.linkedin.com/in/dimitrios-ieronymakis/" target="_blank">
+    dimitrios-ieronymakis
+  </a>
 </div>
 
 <div>
-<span style="vertical-align: middle;">
-<img src="icons/twitter.png" width=24 height=24/></span> @Dim_Ier
+<img align="center" src="icons/twitter.png" width=24 height=24/> 
+ <a href="https://twitter.com/Dim_Ier" target="_blank">@Dim_Ier</a>
 </div>
