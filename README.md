@@ -1,5 +1,5 @@
 #### Hey, Dimitris here 👋
-I'm currently enrolled in the Computer Science Master's course at Leiden University.
+I'm currently enrolled in the Computer Science Master's at Leiden University.
 When I am not doing compulsory university work, I enjoy experimenting with projects and reading publications 
 regarding the latest breakthroughs in AI and Bioinformatics.
 My main ambition is to work in reaserch and never stop learning.
