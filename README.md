@@ -28,20 +28,17 @@ about deep & reiforcement learning, computer vision as well as evolutionary algo
 ![DIPlib](https://img.shields.io/badge/-DIPlib-282c34?style=for-the-badge)
 
 ### Connect with me:
-
 <div>
-<img align="center" src="icons/email.png" width=24 height=24/> 
-dimitris.ieronymakis@gmail.com <br/>
-</div>
+<a href="mailto:dimitris.ieronymakis@gmail.com" target="_blank">
 
-<div>
-  <img align="center" src="icons/linkedin.png" width=24 height=24/> 
-  <a href ="https://www.linkedin.com/in/dimitrios-ieronymakis/" target="_blank">
-    dimitrios-ieronymakis
-  </a>
-</div>
+  ![Gmail](https://img.shields.io/badge/-Gmail-282c34?style=for-the-badge&logo=gmail)
+</a>
+<a href="https://www.linkedin.com/in/dimitrios-ieronymakis/" target="_blank">
 
-<div>
-<img align="center" src="icons/twitter.png" width=24 height=24/> 
- <a href="https://twitter.com/Dim_Ier" target="_blank">@Dim_Ier</a>
-</div>
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=linkedin)
+</a>
+<a href="https://twitter.com/Dim_Ier" target="_blank">
+
+![Twitter](https://img.shields.io/badge/-Twitter-282c34?style=for-the-badge&logo=twitter)
+</a>
+  </div>
