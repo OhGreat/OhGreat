@@ -27,18 +27,8 @@ about deep & reiforcement learning, computer vision as well as evolutionary algo
 ![AstraToolkit](https://img.shields.io/badge/-AstraToolkit-282c34?style=for-the-badge)
 ![DIPlib](https://img.shields.io/badge/-DIPlib-282c34?style=for-the-badge)
 
-### Connect with me:
-<div>
-<a href="mailto:dimitris.ieronymakis@gmail.com" target="_blank">
+### Connect with me:  
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logoColor=white&style=for-the-badge&logo=gmail)](mailto:dimitris.ieronymakis@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logoColor=white&style=for-the-badge&logo=linkedin&target=https://www.linkedin.com/in/dimitrios-ieronymakis)](https://www.linkedin.com/in/dimitrios-ieronymakis?target=_blank)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logoColor=white&style=for-the-badge&logo=twitter)](https://twitter.com/Dim_Ier)
 
-  ![Gmail](https://img.shields.io/badge/-Gmail-282c34?style=for-the-badge&logo=gmail)
-</a>
-<a href="https://www.linkedin.com/in/dimitrios-ieronymakis/" target="_blank">
-
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=linkedin)
-</a>
-<a href="https://twitter.com/Dim_Ier" target="_blank">
-
-![Twitter](https://img.shields.io/badge/-Twitter-282c34?style=for-the-badge&logo=twitter)
-</a>
-  </div>
