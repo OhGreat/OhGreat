@@ -24,7 +24,8 @@ I'm a student currently enrolled in the Computer Science Master's course at Leid
 ![DIPlib](https://img.shields.io/badge/-DIPlib-282c34?style=for-the-badge)
 
 #### Contact me
-- email
-- linkedin
-- twitter
+
+<img src="icons/email.png" width=24 height=24/> dimitris.ieronymakis@gmail.com <br/>
+<img src="icons/linkedin.png" width=24 height=24/> dimitrios-ieronymakis <br/>
+<img src="icons/twitter.png" width=24 height=24/> @Dim_Ier
 
