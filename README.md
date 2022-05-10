@@ -12,6 +12,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-282c34?style=for-the-badge&logo=Linux)
 ![Gnu Bash](https://img.shields.io/badge/-Bash-282c34?style=for-the-badge&logo=gnubash)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-282c34?style=for-the-badge&logo=latex)
+![Django](https://img.shields.io/badge/-Django-282c34?style=for-the-badge&logo=django)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282c34?style=for-the-badge&logo=JavaScript)
 ![JQuery](https://img.shields.io/badge/-JQuery-282c34?style=for-the-badge&logo=jquery)
 ![Docker](https://img.shields.io/badge/-Docker-282c34?style=for-the-badge&logo=docker)
