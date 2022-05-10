@@ -3,7 +3,7 @@
 I'm a student currently enrolled in the Computer Science Master's course at Leiden University. My main interests and reaserch topics include deep & reiforcement learning, computer vision and evolutionary algorithms. 
 
 
-#### Tech stack
+### Tech stack:
 ![Python](https://img.shields.io/badge/-Python-282c34?style=for-the-badge&logo=Python)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-282c34?style=for-the-badge&logo=Pytorch)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-282c34?style=for-the-badge&logo=Tensorflow)
@@ -23,9 +23,20 @@ I'm a student currently enrolled in the Computer Science Master's course at Leid
 ![AstraToolkit](https://img.shields.io/badge/-AstraToolkit-282c34?style=for-the-badge)
 ![DIPlib](https://img.shields.io/badge/-DIPlib-282c34?style=for-the-badge)
 
-#### Contact me
+### Connect with me:
 
-<img src="icons/email.png" width=24 height=24/> dimitris.ieronymakis@gmail.com <br/>
-<img src="icons/linkedin.png" width=24 height=24/> dimitrios-ieronymakis <br/>
-<img src="icons/twitter.png" width=24 height=24/> @Dim_Ier
+<div>
+<span style="vertical-align: middle;">
+<img src="icons/email.png" width=24 height=24/> 
+</span> dimitris.ieronymakis@gmail.com <br/>
+</div>
 
+<div>
+<span style="vertical-align: middle;">
+<img src="icons/linkedin.png" width=24 height=24/></span> dimitrios-ieronymakis <br/>
+</div>
+
+<div>
+<span style="vertical-align: middle;">
+<img src="icons/twitter.png" width=24 height=24/></span> @Dim_Ier
+</div>
