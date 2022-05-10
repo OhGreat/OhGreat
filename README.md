@@ -1,4 +1,4 @@
-### Hi there, Dimitris here 👋
+### Hi, Dimitris here 👋
 
 I'm currently enrolled in the Computer Science Master's course at Leiden University.
 When I am not doing compulsory university work, I enjoy experimenting and reading publications 
