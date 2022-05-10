@@ -1,11 +1,15 @@
-### Hi there 👋
+### Hi there, Dimitris here 👋
+
+I'm a student currently enrolled in the Computer Science Master's course at Leiden University. My main interests and reaserch topics include deep & reiforcement learning, computer vision and evolutionary algorithms. 
 
 
-#### Languages & Technologies
+#### Tech stack
 ![Python](https://img.shields.io/badge/-Python-282c34?style=for-the-badge&logo=Python)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-282c34?style=for-the-badge&logo=Pytorch)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-282c34?style=for-the-badge&logo=Tensorflow)
 ![Numpy](https://img.shields.io/badge/-Numpy-282c34?style=for-the-badge&logo=numpy)
+![R](https://img.shields.io/badge/-R-282c34?style=for-the-badge&logo=R)
+![Matlab](https://img.shields.io/badge/-Matlab-282c34?style=for-the-badge&logo=matlab)
 ![C](https://img.shields.io/badge/-C-282c34?style=for-the-badge&logo=C)
 ![MySQL](https://img.shields.io/badge/-MySQL-282c34?logoColor=white&style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-282c34?style=for-the-badge&logo=postgresql)
@@ -20,12 +24,7 @@
 ![DIPlib](https://img.shields.io/badge/-DIPlib-282c34?style=for-the-badge)
 
 #### Contact me
+- email
+- linkedin
+- twitter
 
-
-#### Github statistics
-![OhGreat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohgreat&show_icons=true&theme=onedark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohgreat&layout=compact)](https://github.com/ohgreat/github-readme-stats)
-
-
-![OhGreat](https://raw.githubusercontent.com/OhGreat/github-stats/master/generated/overview.svg#gh-light-mode-only)
