@@ -1,9 +1,9 @@
 ### Hi there, Dimitris here 👋
 
-I'm a student currently enrolled in the Computer Science Master's course at Leiden University. 
-When I am not doing compulsory university work, 
-I enjoy experimenting and reading publications 
-about deep & reiforcement learning, computer vision as well as evolutionary algorithms.
+I'm a student currently enrolled in the Computer Science Master's course at Leiden University.<br/>
+When I am not doing compulsory university work, I enjoy experimenting and reading publications 
+about deep & reiforcement learning, computer vision as well as evolutionary algorithms.<br/>
+Make sure to take a look at my repositories to get an idea of my current work and progress.
 
 
 
@@ -30,5 +30,6 @@ about deep & reiforcement learning, computer vision as well as evolutionary algo
 ### Connect with me:  
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logoColor=white&style=for-the-badge&logo=gmail)](mailto:dimitris.ieronymakis@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logoColor=white&style=for-the-badge&logo=linkedin&target=https://www.linkedin.com/in/dimitrios-ieronymakis)](https://www.linkedin.com/in/dimitrios-ieronymakis?target=_blank)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logoColor=white&style=for-the-badge&logo=telegram)](https://t.me/DimitriosIeronymakis)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logoColor=white&style=for-the-badge&logo=twitter)](https://twitter.com/Dim_Ier)
 
