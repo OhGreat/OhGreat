@@ -1,14 +1,11 @@
-### Hi there, Dimitris here 👋
-
+#### Hey, Dimitris here 👋
 I'm currently enrolled in the Computer Science Master's course at Leiden University.
 When I am not doing compulsory university work, I enjoy experimenting and reading publications 
 about deep & reiforcement learning, computer vision as well as evolutionary algorithms.
 My main ambition is to work in reaserch and never stop learning.
 Make sure to visit my repositories if you want to learn more about my current work and progress.
 
-
-
-### Tech stack:
+#### Tech stack:
 ![Python](https://img.shields.io/badge/-Python-282c34?style=for-the-badge&logo=Python)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-282c34?style=for-the-badge&logo=Pytorch)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-282c34?style=for-the-badge&logo=Tensorflow)
@@ -28,7 +25,7 @@ Make sure to visit my repositories if you want to learn more about my current wo
 ![AstraToolkit](https://img.shields.io/badge/-AstraToolkit-282c34?style=for-the-badge)
 ![DIPlib](https://img.shields.io/badge/-DIPlib-282c34?style=for-the-badge)
 
-### Connect with me:  
+#### Connect with me:  
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logoColor=white&style=for-the-badge&logo=gmail)](mailto:dimitris.ieronymakis@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logoColor=white&style=for-the-badge&logo=linkedin&target=https://www.linkedin.com/in/dimitrios-ieronymakis)](https://www.linkedin.com/in/dimitrios-ieronymakis?target=_blank)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logoColor=white&style=for-the-badge&logo=telegram)](https://t.me/DimitriosIeronymakis)
