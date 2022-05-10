@@ -1,9 +1,10 @@
 ### Hi there, Dimitris here 👋
 
-I'm currently enrolled in the Computer Science Master's course at Leiden University.<br/>
+I'm currently enrolled in the Computer Science Master's course at Leiden University.
 When I am not doing compulsory university work, I enjoy experimenting and reading publications 
-about deep & reiforcement learning, computer vision as well as evolutionary algorithms.<br/>
-Make sure to take a look at my repositories to get an idea of my current work and progress.
+about deep & reiforcement learning, computer vision as well as evolutionary algorithms.
+My main ambition is to work in reaserch and never stop learning.
+Make sure to visit my repositories if you want to learn more about my current work and progress.
 
 
 
