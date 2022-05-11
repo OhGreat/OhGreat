@@ -2,8 +2,8 @@
 I'm currently enrolled in the Computer Science Master's at Leiden University.
 When I am not doing compulsory university work, I enjoy experimenting with projects and reading publications 
 regarding the latest breakthroughs in AI and Bioinformatics.
-My main ambition is to work in reaserch and never stop learning.
-Make sure to visit my repositories if you want to learn about my recent work and progress.
+My main ambition is to work in reaserch and to never stop learning.
+You can learn more about my recent work with a quick glance at the repositories pinned below.
 
 #### Tech stack:
 ![Python](https://img.shields.io/badge/-Python-282c34?style=for-the-badge&logo=Python)
