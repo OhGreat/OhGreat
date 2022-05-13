@@ -1,25 +1,25 @@
 #### Hey, Dimitris here 👋
-I'm currently enrolled in the Computer Science Master's at Leiden University.
-When I am not doing *compulsory* university work, I enjoy experimenting with projects and reading publications 
-regarding the latest breakthroughs in AI and Bioinformatics.
-My main ambition is to work in reaserch, to ensure I never stop learning.
-You can find out about my recent work with a quick glance at the repositories pinned below.
+I'm currently enrolled in the Computer Science Master's at Leiden University (Bioinformatics specialization).<br/>
+When I am not doing "compulsory" university work, I enjoy experimenting with projects and reading publications 
+regarding the latest breakthroughs in AI and Bioinformatics. Hopefully, one day I'll manage to work in the reaserch field.
+<br/>Currently, 99% of the time, I am using Python and the most common machine/deep learning libraries and tools when coding. You can find out about my recent work and progrerss with a quick glance at the repositories pinned below.
 
 #### Tech stack:
 ![Python](https://img.shields.io/badge/-Python-282c34?style=for-the-badge&logo=Python)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-282c34?style=for-the-badge&logo=Pytorch)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-282c34?style=for-the-badge&logo=Tensorflow)
 ![Numpy](https://img.shields.io/badge/-Numpy-282c34?style=for-the-badge&logo=numpy)
+![PyPI](https://img.shields.io/badge/-PyPI-282c34?style=for-the-badge&logo=PyPI)
+![Anaconda](https://img.shields.io/badge/-Anaconda-282c34?style=for-the-badge&logo=anaconda)
 ![Linux](https://img.shields.io/badge/-Linux-282c34?style=for-the-badge&logo=Linux)
 ![Gnu Bash](https://img.shields.io/badge/-Bash-282c34?style=for-the-badge&logo=gnubash)
-![Anaconda](https://img.shields.io/badge/-Anaconda-282c34?style=for-the-badge&logo=anaconda)
-![Docker](https://img.shields.io/badge/-Docker-282c34?style=for-the-badge&logo=docker)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-282c34?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-282c34?logoColor=white&style=for-the-badge&logo=mysql)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-282c34?style=for-the-badge&logo=latex)
 ![C](https://img.shields.io/badge/-C-282c34?style=for-the-badge&logo=C)
 ![R](https://img.shields.io/badge/-R-282c34?style=for-the-badge&logo=R)
 ![Matlab](https://img.shields.io/badge/-Matlab-282c34?style=for-the-badge&logo=matlab)
+![Docker](https://img.shields.io/badge/-Docker-282c34?style=for-the-badge&logo=docker)
 ![Django](https://img.shields.io/badge/-Django-282c34?style=for-the-badge&logo=django)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282c34?style=for-the-badge&logo=JavaScript)
 ![JQuery](https://img.shields.io/badge/-JQuery-282c34?style=for-the-badge&logo=jquery)
