@@ -2,7 +2,7 @@
 I'm currently enrolled in the Computer Science Master's at Leiden University (Bioinformatics specialization).<br/>
 When I am not doing "compulsory" university work, I enjoy experimenting with projects and reading publications 
 regarding the latest breakthroughs in AI and Bioinformatics. Hopefully, one day I'll manage to work in the reaserch field.<br/>
-Currently, 99% of the time, I am using Python and the most common machine & deep learning libraries when coding. You can find out about my recent projects and progress with a quick glance at the repositories pinned below.
+Currently, 99% of the time, I use Python and the most common machine & deep learning libraries when coding. You can find out about my recent projects and progress with a quick glance at the repositories pinned below.
 
 #### Tech stack:
 ![Python](https://img.shields.io/badge/-Python-282c34?style=for-the-badge&logo=Python)
