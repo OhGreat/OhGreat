@@ -15,16 +15,13 @@ Currently, 99% of the time, I use Python and the most common machine & deep lear
 ![Gnu Bash](https://img.shields.io/badge/-Bash-282c34?style=for-the-badge&logo=gnubash)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-282c34?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-282c34?logoColor=white&style=for-the-badge&logo=mysql)
-![LaTeX](https://img.shields.io/badge/-LaTeX-282c34?style=for-the-badge&logo=latex)
 ![C](https://img.shields.io/badge/-C-282c34?style=for-the-badge&logo=C)
 ![R](https://img.shields.io/badge/-R-282c34?style=for-the-badge&logo=R)
 ![Matlab](https://img.shields.io/badge/-Matlab-282c34?style=for-the-badge&logo=matlab)
 ![Docker](https://img.shields.io/badge/-Docker-282c34?style=for-the-badge&logo=docker)
-![Django](https://img.shields.io/badge/-Django-282c34?style=for-the-badge&logo=django)
-![JavaScript](https://img.shields.io/badge/-JavaScript-282c34?style=for-the-badge&logo=JavaScript)
-![JQuery](https://img.shields.io/badge/-JQuery-282c34?style=for-the-badge&logo=jquery)
 ![AstraToolkit](https://img.shields.io/badge/-AstraToolkit-282c34?style=for-the-badge)
 ![DIPlib](https://img.shields.io/badge/-DIPlib-282c34?style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/-LaTeX-282c34?style=for-the-badge&logo=latex)
 
 #### Connect with me:  
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logoColor=white&style=for-the-badge&logo=gmail)](mailto:dimitris.ieronymakis@gmail.com)
