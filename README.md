@@ -1,6 +1,6 @@
 #### Hey, Dimitris here 👋
 I'm currently enrolled in the Computer Science Master's at Leiden University (Bioinformatics specialization).<br/>
-When I am not doing university work, I enjoy experimenting with projects and reading publications regarding the latest breakthroughs in AI and Bioinformatics. Hopefully, one day I'll manage to work in the reaserch field.
+When I am not doing university work, I enjoy experimenting with projects and reading publications regarding the latest breakthroughs in AI and Bioinformatics. Hopefully, one day I'll manage to work in the research field.
 <br/>
 Currently, 99% of the time, I use Python and the most common libraries when coding. You can find out about my recent work with a quick glance at the repositories pinned below.
 
