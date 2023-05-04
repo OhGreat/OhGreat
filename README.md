@@ -1,17 +1,18 @@
 #### Hey, Dimitris here 👋
-I'm currently enrolled in the Computer Science Master's at Leiden University (Bioinformatics specialization).<br/>
-When I am not doing university work, I enjoy experimenting with projects and reading publications regarding the latest breakthroughs in AI and Bioinformatics. Hopefully, one day I'll manage to work in the research field.
+Soon graduating from the Computer Science Master's at Leiden University with Bioinformatics specialization.<br/>
+When I am not doing university work, I enjoy experimenting with projects and reading publications regarding the latest breakthroughs in AI.
+<br/>I like to do research. :)
 <br/>
-Currently, 99% of the time, I use Python and the most common libraries when coding. You can find out about my recent work with a quick glance at the repositories pinned below.
+Currently, 99% of the time, I use Python and the most common deep learning libraries when coding.
 
 #### Tech stack:
 ![Python](https://img.shields.io/badge/-Python-282c34?style=for-the-badge&logo=Python)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-282c34?style=for-the-badge&logo=Pytorch)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-282c34?style=for-the-badge&logo=Tensorflow)
+![PytorchLightning](https://img.shields.io/badge/-Pytorch%20Lightning-282c34?style=for-the-badge&logo=pytorchlightning)
 ![Numpy](https://img.shields.io/badge/-Numpy-282c34?style=for-the-badge&logo=numpy)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-282c34?style=for-the-badge&logo=opencv)
 ![AstraToolbox](https://img.shields.io/badge/-Astra_Toolbox-282c34?style=for-the-badge)
-![DIPlib](https://img.shields.io/badge/-DIPlib-282c34?style=for-the-badge)
 ![PyPI](https://img.shields.io/badge/-PyPI-282c34?style=for-the-badge&logo=PyPI)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-282c34?style=for-the-badge&logo=anaconda)
 ![Linux](https://img.shields.io/badge/-Linux-282c34?style=for-the-badge&logo=Linux)
