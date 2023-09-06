@@ -1,9 +1,7 @@
 #### Hey, Dimitris here 👋
-Soon graduating from the Computer Science Master's at Leiden University with Bioinformatics specialization.<br/>
-When I am not doing university work, I enjoy experimenting with projects and reading publications regarding the latest breakthroughs in AI.
+I enjoy experimenting with projects and reading publications regarding the latest breakthroughs in AI.
 <br/>I like to do research. :)
-<br/>
-Currently, 99% of the time, I use Python and the most common deep learning libraries when coding.
+
 
 #### Tech stack:
 ![Python](https://img.shields.io/badge/-Python-282c34?style=for-the-badge&logo=Python)
